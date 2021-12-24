@@ -1,0 +1,12 @@
+# beautifulsoup is the preeminent library for web page parsing
+beautifulsoup4==4.10.0
+# PyPDF2 helps if it is a PDF
+PyPDF2==1.26.0
+# langdetect tells you what language a page is
+langdetect==1.0.8
+# lxml can help catch hyperlinks beautifulsoup does not
+lxml==4.6.2
+# requests makes requests
+requests==2.26.0
+
+
